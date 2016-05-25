@@ -1,3 +1,52 @@
+@font-face {
+    font-family: 'Cinzel';
+    src: url("/vendors/fonts/Cinzel/Cinzel-Regular.ttf");
+}
+
+@font-face {
+  font-family: 'Tangerine';
+  src: url("/vendors/fonts/Tangerine/Tangerine_Regular.ttf");
+}
+
+@font-face {
+  font-family: 'Allerta Stencil';
+  src: url("/vendors/fonts/Allerta_Stencil/AllertaStencil-Regular.ttf");
+}
+
+@font-face {
+  font-family: 'Sigmar One';
+  src: url("/vendors/fonts/Sigmar_One/SigmarOne.ttf");
+}
+
+.jumbotron {
+  background-color: black;
+  color: #808080;
+}
+
+.header {
+  font-family: 'Sigmar One';
+  font-style: italic;
+}
+
+.character a {
+  color: black;
+  font-family: 'Sigmar One';
+  font-size: 20px;
+}
+
+.wolverineHeader {
+  font-family: 'Allerta Stencil';
+}
+
+.linkHeader {
+  font-family: 'Cinzel';
+}
+
+.bilboHeader {
+  font-family: 'Tangerine';
+  font-size: 40px;
+}
+
 h2 {
   text-align: center;
 }
