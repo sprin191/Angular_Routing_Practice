@@ -15,6 +15,6 @@ myApp.config(['$routeProvider', function($routeProvider) {
       controller: "BilboController"
     })
     .otherwise({
-      redirectTo: 'home'
+      redirectTo: 'wolverine'
     })
 }]);

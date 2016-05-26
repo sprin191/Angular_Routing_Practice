@@ -14,8 +14,8 @@
 }
 
 @font-face {
-  font-family: 'Sigmar One';
-  src: url("/vendors/fonts/Sigmar_One/SigmarOne.ttf");
+  font-family: 'Bangers';
+  src: url("/vendors/fonts/Bangers/Bangers.ttf");
 }
 
 .jumbotron {
@@ -24,14 +24,14 @@
 }
 
 .header {
-  font-family: 'Sigmar One';
+  font-family: 'Bangers';
   font-style: italic;
 }
 
 .character a {
   color: black;
-  font-family: 'Sigmar One';
-  font-size: 20px;
+  font-family: 'Bangers';
+  font-size: 25px;
 }
 
 .wolverineHeader {
